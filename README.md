@@ -1,1 +1,1 @@
-# Simulating caustic crossing events in cluster lenses
+# Simulating Caustic Crossing Events in Cluster Lenses
